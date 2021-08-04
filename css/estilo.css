@@ -1,0 +1,72 @@
+main{
+    max-width: 1000px;
+    margin: 0px auto;
+    padding-top: 5%;
+}
+body{
+    background-image: url(/img/pexels-bich-tran-669996.jpg);
+    background-position: left;
+    background-size: cover;
+    font-family: 'Krub', sans-serif;
+}
+html{
+    box-sizing: border-box;
+    min-height: 100%;
+    scroll-snap-type: y mandatory;
+}
+li, p{
+    font-size: 22px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+#cms{
+    width: 150px;
+    height: 100px;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+#cms1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 55px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+#gnu{
+    text-align: center;
+
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    color: whitesmoke;
+}
+main{
+    padding: 2rem;
+    margin-bottom: 3rem;
+    background-color: rgb(255, 255, 255,0.8);
+    border-radius: 10px;
+    box-shadow: rgb(202, 195, 189) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    max-width: 1000px;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+}
+
+#fuente{
+    text-align: center;
+}
