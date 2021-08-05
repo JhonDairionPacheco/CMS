@@ -4,7 +4,7 @@ main{
     padding-top: 5%;
 }
 body{
-    background-image: url(/img/pexels-bich-tran-669996.jpg);
+    background-image: url(../img/pexels-bich-tran-669996.jpg);
     background-position: left;
     background-size: cover;
     font-family: 'Krub', sans-serif;
